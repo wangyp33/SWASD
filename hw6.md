@@ -54,10 +54,14 @@
   粒度达到子用例级别，并用 include 和 exclude 关联它们
   请用色彩标注出你认为创新（区别于竞争对手的）用例或子用例
   尽可能识别外部系统和服务
+  
+  - 淘票票
 
-  ![](C:\Users\17935\Pictures\Camera Roll\p1.PNG)
-
-  ![](C:\Users\17935\Pictures\Camera Roll\p2.PNG)
+  ![](p1.PNG)
+  
+  - 携程定酒店
+  
+  ![](p2.PNG)
 
 
  - 然后，回答下列问题：
